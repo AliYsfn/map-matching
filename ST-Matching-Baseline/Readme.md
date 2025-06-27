@@ -5,10 +5,10 @@ This repository contains a Jupyter Notebook implementing the Spatial-Temporal (S
 ## Features
 
 - Candidate point selection using spatial buffers  
-- Observation and transition probability computations  
-- Construction of candidate graphs (DAG) and shortest path finding  
+- Observation and transition probability computations
 - Temporal similarity based on GPS speed and road speed limits  
-- Evaluation metrics including path length, revisit counts, speed consistency, and complexity  
+- Construction of candidate graphs (DAG) and shortest path finding  
+- Evaluation metrics  
 - visualization of matched points and paths  
 
 ## Files
